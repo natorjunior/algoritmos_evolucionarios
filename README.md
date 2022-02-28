@@ -5,6 +5,12 @@ Os AGs são inspirados na teoria de Charles Darwin, que inicialmente conceituou 
 
 ### Problemas 
 Os AGs são normalmente usado em problemas de otimizações, onde objetiva-se a redução do tempo de chegada a solução ótima. Muitas áreas usam AGs para encontrarem soluções, a exemplo do trabalho de \cite{4798001} que se utiliza dos AGs para segmentação de imagens médicas, o autor justifica também a excelência do algoritmo na saída de ótimos locais, outros trabalho que também usam os AGs na segmentação de imagens médicas são  \cite{kaushik2013medical,LAI2009248,GHOSH2016181}. Para sistemas de controles de intersecção isoladas os trabalhos \cite{1007302,1712997,HALE2015191} utilizam para otimização dos controladores, buscando a priori, uma melhor performance, reduzindo assim o tempo médio de espera. 
+### Problema de exemplo:
+
+- Podemos considerar a função a seguir.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/natorjunior/algoritmos_evolucionarios/main/func.png" />
+</p>
 
 
 ## Evolução Diferencial (DE)
